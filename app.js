@@ -21,3 +21,4 @@ function addToList(text) {
 
   list.appendChild(newListItem);
 }
+
